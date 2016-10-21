@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">modular</string>
+    <string name="soundcloud_client_id">05155d6e323d2cef14e4500bc7c944c6</string>
+    <string name="soundcloud_client_secret">fdf5cd5bcd125ece8de56d16fb276c8e</string>
+</resources>
