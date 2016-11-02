@@ -1,4 +1,4 @@
-package com.modular.view;
+package com.modular.mvp;
 
 /**
  * Created by Mayboroda on 10/31/16.
